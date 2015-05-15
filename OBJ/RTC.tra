@@ -35,7 +35,7 @@
 ### ADS-LD Output File: '..\OBJ\RTC.axf'
 ### ADS-LD Command File: '..\OBJ\RTC.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '..\OBJ\RTC.lnp', Handle=0x00000D90
+### Creating CmdFile '..\OBJ\RTC.lnp', Handle=0x000005E0
 ### Writing '.lnp' file
 ### ADS-LD Command file '..\OBJ\RTC.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.

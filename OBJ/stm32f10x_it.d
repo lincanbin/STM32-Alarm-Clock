@@ -15,3 +15,7 @@
 ..\OBJ\stm32f10x_it.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
 ..\OBJ\stm32f10x_it.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\OBJ\stm32f10x_it.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\stm32f10x_it.o: ..\SYSTEM\delay\delay.h
+..\OBJ\stm32f10x_it.o: ..\SYSTEM\sys\sys.h
+..\OBJ\stm32f10x_it.o: ..\HARDWARE\BEEP\beep.h
+..\OBJ\stm32f10x_it.o: ..\HARDWARE\KEY\key.h
