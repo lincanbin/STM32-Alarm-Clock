@@ -1,19 +1,19 @@
-1����KEY0����ʱ���趨���棬������ʾSet Time Start
-		��KEY UP�趨ÿ�ΰ����Ӽ���ʱ�䣺
-			��Second��Minute��Hour��Day��Month��Year֮���л�����Ļ����ʾ*** Mode��
-			Ĭ��ΪSecond Mode����KEY1��2һ�μӼ�һ�롣ÿ���л�Mode����һ����
-		��KEY2����ʱ�䣬��KEY1����ʱ�䣬���ٷ���������ʾ��ÿ���л�Mode����һ����
-	�ٴΰ�KEY0�˳�ʱ���趨���棬������ʾSet Time End
+﻿1、按KEY0进入时间设定界面，界面显示Set Time Start
+		按KEY UP设定每次按键加减的时间：
+			在Second、Minute、Hour、Day、Month、Year之间切换，屏幕会显示*** Mode。
+			默认为Second Mode，按KEY1、2一次加减一秒。每次切换Mode会响一声。
+		按KEY2增加时间，按KEY1减少时间，减少幅度如上所示。每次切换Mode会响一声。
+	再次按KEY0退出时间设定界面，界面显示Set Time End
 
-2����KEY UP���������趨���棬������ʾSet Alarm Start
-		��KEY0�趨ÿ�ΰ����Ӽ���ʱ�䣺
-			��Second��Minute��Hour��Day��Month��Year֮���л�����Ļ����ʾ****** Mode��
-			Ĭ��ΪSecond Mode����KEY1��2һ�μӼ�һ�롣ÿ���л�Mode����һ����
-		��KEY2����ʱ�䣬��KEY1����ʱ�䣬���ٷ���������ʾ��ÿ���л�Mode����һ����
-	�ٴΰ�KEY UP�˳�ʱ���趨���棬������ʾSet Alarm End
+2、按KEY UP进入闹钟设定界面，界面显示Set Alarm Start
+		按KEY0设定每次按键加减的时间：
+			在Second、Minute、Hour、Day、Month、Year之间切换，屏幕会显示****** Mode。
+			默认为Second Mode，按KEY1、2一次加减一秒。每次切换Mode会响一声。
+		按KEY2增加时间，按KEY1减少时间，减少幅度如上所示。每次切换Mode会响一声。
+	再次按KEY UP退出时间设定界面，界面显示Set Alarm End
 
-3��������ʱ����KEY UP�ر�����
+3、闹钟响时，按KEY UP关闭闹钟
 
-4������ʾ����������
+4、能显示日历，星期
 
-5�������Ժ�ʱ�Ӽ����ܣ��õ͹���ģʽ�������У�����ʾ���ϵ��Ժ�ָ���ʾ��
+5、掉电以后，时钟继续跑，用低功耗模式继续运行，不显示，上电以后恢复显示。
