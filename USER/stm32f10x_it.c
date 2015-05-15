@@ -24,6 +24,10 @@
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f10x_it.h" 
 
+#include "delay.h"
+#include "beep.h"
+#include "key.h"
+
 
  
 void NMI_Handler(void)
@@ -65,6 +69,24 @@ void UsageFault_Handler(void)
  
 void SVC_Handler(void)
 {
+/*
+想用定时寄存器实现，但是不工作
+
+	KEY_Init();//初始化按键
+	delay_init();//延时函数初始化	  
+	BEEP_Init();//初始化逼逼逼，蜂鸣器
+	while(1){
+		BEEP = 0;
+		delay_ms(200);
+		BEEP = 1;
+		delay_ms(200);
+		if(KEY_Scan(0)==4){
+			BEEP = 0;
+			delay_ms(500);//去按键抖动，防止连按
+			break;
+		}
+	}
+*/
 }
  
 void DebugMon_Handler(void)
