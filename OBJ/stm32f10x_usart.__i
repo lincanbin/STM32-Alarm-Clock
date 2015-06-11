@@ -1,5 +1,0 @@
--c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HARDWARE\LED -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\KEY -I..\HARDWARE\LCD -I..\HARDWARE\RTC -I..\HARDWARE\RTC -I..\HARDWARE\BEEP -I..\USMART 
--I C:\Keil\ARM\RV31\INC 
--I C:\Keil\ARM\CMSIS\Include 
--I C:\Keil\ARM\Inc\ST\STM32F10x 
--DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\OBJ\stm32f10x_usart.o" --omf_browse "..\OBJ\stm32f10x_usart.crf" --depend "..\OBJ\stm32f10x_usart.d" "..\STM32F10x_FWLib\src\stm32f10x_usart.c"
